@@ -90,7 +90,7 @@ nav ul li a{
     margin-top: 30px;
     margin-bottom: 50px;
 }
-/*-------------------button------------------------------*/
+/*-------------------BUTTON SECTION------------------------------*/
 .button {
     background-color:black;
     border: none;
@@ -102,7 +102,7 @@ nav ul li a{
     font-size: 16px;
     margin-top: 30px;
   }
-  /*---------------------flex-img----------------------------*/
+  /*---------------------FLEX IMAGE SECTION--------------------------*/
   #fleximg{
     padding: 50px , 0;
     margin-top: 40px;
